@@ -1,0 +1,5 @@
+splits_0.csv: train=703, val=176
+splits_1.csv: train=703, val=176
+splits_2.csv: train=703, val=176
+splits_3.csv: train=703, val=176
+splits_4.csv: train=704, val=175

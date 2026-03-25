@@ -1,0 +1,18 @@
+name: hssurv
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - tqdm
+  - einops
+  - pip:
+      - torch
+      - timm
+      - tensorboardX
+      - scikit-survival
