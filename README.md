@@ -128,9 +128,3 @@ For each dataset and fold, the project saves:
 - TensorBoard logs
 - best model checkpoints
 - run configuration snapshots
-
-## Notes
-
-- The codebase still contains a few machine-specific absolute paths and should be cleaned further before broader release.
-- `main.py` is the active training entry point in this repository.
-- The repository currently focuses on training code and split definitions rather than full raw-data preprocessing.
